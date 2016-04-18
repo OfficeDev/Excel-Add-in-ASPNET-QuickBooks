@@ -1,7 +1,5 @@
 # Excel Add-in with ASP.NET and QuickBooks
 
-Microsoft Office Excel Add-in that integrates with QuickBooks.
-
 Your Excel Add-in can connect to a service like QuickBooks and import data into your Excel spreadsheet. 
 This Excel Add-in demonstrates how to connect to QuickBooks, gets sample expense data from a sandbox account provided by QuickBooks, **Sandbox Company_US_1**, and imports the sample data into a spreadsheet. The add-in also provides a button to create a chart from the sample data.
 
