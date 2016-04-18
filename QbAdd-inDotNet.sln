@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QbAdd-inDotNet", "QbAdd-inDotNet\QbAdd-inDotNet.csproj", "{7DB530C3-EF66-4B05-820C-10DA83FF6E66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QbAdd-inDotNetWeb", "QbAdd-inDotNetWeb\QbAdd-inDotNetWeb.csproj", "{3C0CB03A-BF1D-405E-909D-2991838F5644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB530C3-EF66-4B05-820C-10DA83FF6E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB530C3-EF66-4B05-820C-10DA83FF6E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB530C3-EF66-4B05-820C-10DA83FF6E66}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7DB530C3-EF66-4B05-820C-10DA83FF6E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB530C3-EF66-4B05-820C-10DA83FF6E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB530C3-EF66-4B05-820C-10DA83FF6E66}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3C0CB03A-BF1D-405E-909D-2991838F5644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0CB03A-BF1D-405E-909D-2991838F5644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0CB03A-BF1D-405E-909D-2991838F5644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0CB03A-BF1D-405E-909D-2991838F5644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

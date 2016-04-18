@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html>
+<!--
+ * Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license.
+ * See LICENSE in the project root for license information.
+ -->
+
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <title>QuickBooks Add-in .Net</title>
+
+    <script src="/Scripts/jquery-1.9.1.js" type="text/javascript"></script>
+    <script src="/Scripts/FabricUI/MessageBanner.js" type="text/javascript"></script>
+    <script src="//appsforoffice.microsoft.com/lib/beta/hosted/office.debug.js" type="text/javascript"></script>
+    <script src="//appcenter.intuit.com/Content/IA/intuit.ipp.anywhere-1.3.1.js" type="text/javascript"></script>
+
+    <!-- To enable offline debugging using a local reference to Office.js, use:                        -->
+    <!-- <script src="/Scripts/Office/MicrosoftAjax.js" type="text/javascript"></script>  -->
+    <!-- <script src="/Scripts/Office/1.1/office.js" type="text/javascript"></script>  -->
+
+    <link href="Home.css" rel="stylesheet" type="text/css" />
+    <script src="Home.js" type="text/javascript"></script>
+    <script src="Functions/FunctionFile.js" type="text/javascript"></script>
+
+    <!-- For the Office UI Fabric, go to http://aka.ms/office-ui-fabric to learn more. -->
+    <link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/1.0/fabric.min.css">
+    <link rel="stylesheet" href="https://appsforoffice.microsoft.com/fabric/1.0/fabric.components.min.css">
+
+    <!-- To enable the offline use of Office UI Fabric, use: -->
+    <!-- link rel="stylesheet" href="/Content/fabric.min.css" -->
+    <!-- link rel="stylesheet" href="/Content/fabric.components.min.css" -->
+</head>
+<body class="ms-font-m">
+    <div id="header">
+        <div class="ms-Grid header ms-bgColor-green">
+            <div class="ms-Grid-row">
+                <div class="ms-Grid-col ms-u-sm12 ms-u-md12 ms-u-lg12">
+                    <div class="ms-font-xl ms-fontColor-white" style="line-height: 2em">QuickBooks Expenses</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="content-main">
+        <div class="padding">
+            <div id="welcomePanel" class="ms-u-fadeIn200" style="padding: 50px">
+                <div class="ms-Grid"> 
+                    <div class="ms-Grid-row ms-font-l ms-fontWeight-light">WELCOME</div><br/>
+                    <div class="ms-Grid-row ms-font-l ms-fontWeight-light">This add-in connects Excel with your Quickbooks online account. Please sign in to get started.</div><br/>
+                    <div class="ms-Grid-row"><a id="btnSignIn" class="intuitPlatformConnectButton" style="cursor: pointer">Connect with QuickBooks</a></div>
+                </div>                                
+            </div>
+
+            <div id="actionsPanel" class="ms-u-fadeIn200" style="display: none">
+                <div class="ms-Grid">
+                    <div class="ms-Grid-row ms-font-l ms-fontWeight-light">Select an action below:</div><br/>
+                    <div class="ms-Grid-row">
+                        <button id="btnGetExpenses" class="ms-Button ms-Button--command"><span class="ms-font-xxl ms-Button-icon"><i class="ms-Icon ms-Icon--bag"></i></span><span class="ms-Button-label">Get Expenses</span></button>
+                    </div><br/>
+                    <div class="ms-Grid-row">
+                        <button id="btnCreateChart" class="ms-Button ms-Button--command"><span class="ms-font-xxl ms-Button-icon"><i class="ms-Icon ms-Icon--graph"></i></span><span class="ms-Button-label">Create Chart</span></button>
+                    </div>
+                </div>
+                
+                <br />
+                <br />
+                <br />
+                <br />
+                <div style="position: absolute; bottom: 50px;">
+                    <button id="btnSignOut" class="ms-Button ms-Button--command"><span class="ms-font-xxl ms-Button-icon"><i class="ms-Icon ms-Icon--oofReply"></i></span><span class="ms-Button-label">Sign Out</span></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="ms-Grid ms-bgColor-green">
+            <div class="ms-Grid-row">
+                <div class="ms-Grid-col ms-u-sm12 ms-u-md12 ms-u-lg12"> <div class="ms-font-xl ms-fontColor-white">Contoso Expenses</div></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- FabricUI component used for displaying notifications -->
+    <div class="ms-MessageBanner" style="position:absolute;bottom: 0;">
+        <div class="ms-MessageBanner-content">
+            <div class="ms-MessageBanner-text">
+                <div class="ms-MessageBanner-clipper">
+                    <div class="ms-font-m-plus ms-fontWeight-semibold" id="notificationHeader"></div>
+                    <div class="ms-font-m ms-fontWeight-semilight" id="notificationBody"></div>
+                </div>
+            </div>
+            <button class="ms-MessageBanner-expand" style="display:none"><i class="ms-Icon ms-Icon--chevronsDown"></i> </button>
+            <div class="ms-MessageBanner-action"></div>
+        </div>
+        <button class="ms-MessageBanner-close"> <i class="ms-Icon ms-Icon--x"></i> </button>
+    </div>
+</body>
+</html>
