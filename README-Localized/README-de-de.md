@@ -47,19 +47,19 @@ Konfigurieren Sie zunächst Ihre App unter developer.intuit.com.
 
 1. Drücken Sie F5, um das Projekt auszuführen.
 
-2. Starten Sie das Add-in, indem Sie im Menüband in Excel die Befehlsschaltfläche wählen.<br><img src="readme-images/readme_command_image.PNG" alt="QuickBooks Excel Add-in command button"></img>  
+2. Starten Sie das Add-in, indem Sie im Menüband in Excel die Befehlsschaltfläche wählen.<br><img src="../readme-images/readme_command_image.PNG" alt="QuickBooks Excel Add-in command button"></img>  
 
-3. Klicken Sie auf **Mit QuickBooks verbinden** , um das QuickBooks-Anmeldefenster zu öffnen.<br><img src="readme-images/readme_image_taskpane.PNG" alt="Task pane sign in"></img>
+3. Klicken Sie auf **Mit QuickBooks verbinden** , um das QuickBooks-Anmeldefenster zu öffnen.<br><img src="../readme-images/readme_image_taskpane.PNG" alt="Task pane sign in"></img>
 
-4. Wenn ein Fehlerfenster in Visual Studio geöffnet wird, klicken Sie auf **Weiter**, und navigieren Sie wieder zu Excel. Dieser Fehler steht nicht im Zusammenhang mit diesem Beispiel. <br><img src="readme-images/readme_image_error.PNG" alt="Visual Studio error window"></img>
+4. Wenn ein Fehlerfenster in Visual Studio geöffnet wird, klicken Sie auf **Weiter**, und navigieren Sie wieder zu Excel. Dieser Fehler steht nicht im Zusammenhang mit diesem Beispiel. <br><img src="../readme-images/readme_image_error.PNG" alt="Visual Studio error window"></img>
 
-5. Melden Sie sich bei QuickBooks mit Ihrem QuickBooks-Entwicklerkonto an.<br><img src="readme-images/readme_image_signin.PNG" alt="QuickBooks sign in dialog window"></img>
+5. Melden Sie sich bei QuickBooks mit Ihrem QuickBooks-Entwicklerkonto an.<br><img src="../readme-images/readme_image_signin.PNG" alt="QuickBooks sign in dialog window"></img>
 
-6. Klicken Sie auf **Autorisieren**, um QuickBooks das Senden von Daten an das Add-In zu ermöglichen.<br><img src="readme-images/readme_image_authorize.PNG" alt="QuickBooks authorize dialog window"></img> <br> The task pane will display two actions to choose from. <br><img src="readme-images/readme_image_action.PNG" alt="Select action task pane"></img>
+6. Klicken Sie auf **Autorisieren**, um QuickBooks das Senden von Daten an das Add-In zu ermöglichen.<br><img src="../readme-images/readme_image_authorize.PNG" alt="QuickBooks authorize dialog window"></img> <br> The task pane will display two actions to choose from. <br><img src="../readme-images/readme_image_action.PNG" alt="Select action task pane"></img>
 
-8. Wählen Sie **Ausgaben abrufen**, um Ausgaben aus QuickBooks in eine Tabelle zu importieren. <br><img src="readme-images/readme_image_expenses.PNG" alt="Expenses spreadsheet"></img>
+8. Wählen Sie **Ausgaben abrufen**, um Ausgaben aus QuickBooks in eine Tabelle zu importieren. <br><img src="../readme-images/readme_image_expenses.PNG" alt="Expenses spreadsheet"></img>
 
-9. Wählen Sie **Diagramm erstellen** zum Einfügen eines Diagramms. <br><img src="readme-images/readme_image_chart.PNG" alt="Insert chart"></img>
+9. Wählen Sie **Diagramm erstellen** zum Einfügen eines Diagramms. <br><img src="../readme-images/readme_image_chart.PNG" alt="Insert chart"></img>
 
 ## Grundlegendes zum Code
 

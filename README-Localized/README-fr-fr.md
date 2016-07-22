@@ -47,19 +47,19 @@ Pour commencer, configurez votre application à l’adresse developer.intuit.com
 
 1. Appuyez sur F5 pour exécuter le projet.
 
-2. Lancez le complément en cliquant sur le bouton de commande du ruban dans Excel.<br><img src="readme-images/readme_command_image.PNG" alt="Bouton de commande de complément Excel QuickBooks"></img>  
+2. Lancez le complément en cliquant sur le bouton de commande du ruban dans Excel.<br><img src="../readme-images/readme_command_image.PNG" alt="Bouton de commande de complément Excel QuickBooks"></img>  
 
-3. Cliquez sur **Se connecter à QuickBooks** pour lancer la fenêtre de connexion QuickBooks.<br><img src="readme-images/readme_image_taskpane.PNG" alt="Volet Office - Connexion"></img>
+3. Cliquez sur **Se connecter à QuickBooks** pour lancer la fenêtre de connexion QuickBooks.<br><img src="../readme-images/readme_image_taskpane.PNG" alt="Volet Office - Connexion"></img>
 
-4. Si une fenêtre d’erreur s’ouvre dans Visual Studio, cliquez sur **Continuer** et retournez dans Excel. Cette erreur n’est pas liée à l’exemple.<br><img src="readme-images/readme_image_error.PNG" alt="Fenêtre d’erreur Visual Studio"></img>
+4. Si une fenêtre d’erreur s’ouvre dans Visual Studio, cliquez sur **Continuer** et retournez dans Excel. Cette erreur n’est pas liée à l’exemple.<br><img src="../readme-images/readme_image_error.PNG" alt="Fenêtre d’erreur Visual Studio"></img>
 
-5. Connectez-vous à QuickBooks avec votre compte de développeur QuickBooks.<br><img src="readme-images/readme_image_signin.PNG" alt="Boîte de dialogue de connexion à QuickBooks"></img>
+5. Connectez-vous à QuickBooks avec votre compte de développeur QuickBooks.<br><img src="../readme-images/readme_image_signin.PNG" alt="Boîte de dialogue de connexion à QuickBooks"></img>
 
-6. Cliquez sur **Autoriser** pour autoriser QuickBooks à envoyer des données au complément.<br><img src="readme-images/readme_image_authorize.PNG" alt="Boîte de dialogue d’autorisation QuickBooks"></img> <br> Le volet Office affiche deux actions entre lesquelles choisir.<br><img src="readme-images/readme_image_action.PNG" alt="Volet Office de sélection d’action"></img>
+6. Cliquez sur **Autoriser** pour autoriser QuickBooks à envoyer des données au complément.<br><img src="../readme-images/readme_image_authorize.PNG" alt="Boîte de dialogue d’autorisation QuickBooks"></img> <br> Le volet Office affiche deux actions entre lesquelles choisir.<br><img src="../readme-images/readme_image_action.PNG" alt="Volet Office de sélection d’action"></img>
 
-8. Choisissez **Obtenir des dépenses** pour importer des dépenses à partir de QuickBooks vers une feuille de calcul. <br><img src="readme-images/readme_image_expenses.PNG" alt="Feuille de calcul de dépenses"></img>
+8. Choisissez **Obtenir des dépenses** pour importer des dépenses à partir de QuickBooks vers une feuille de calcul. <br><img src="../readme-images/readme_image_expenses.PNG" alt="Feuille de calcul de dépenses"></img>
 
-9. Choisissez **Créer un graphique** pour insérer une graphique. <br><img src="readme-images/readme_image_chart.PNG" alt="Insérer un graphique"></img>
+9. Choisissez **Créer un graphique** pour insérer une graphique. <br><img src="../readme-images/readme_image_chart.PNG" alt="Insérer un graphique"></img>
 
 ## Comprendre le code
 

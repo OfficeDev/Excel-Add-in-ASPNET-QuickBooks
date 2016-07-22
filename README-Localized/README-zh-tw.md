@@ -47,19 +47,19 @@
 
 1. 按下 F5 以執行專案。
 
-2. 啟動增益集，方法是從 Excel 的功能區選取命令按鈕。<br><img src="readme-images/readme_command_image.PNG" alt="QuickBooks Excel Add-in command button"></img>  
+2. 啟動增益集，方法是從 Excel 的功能區選取命令按鈕。<br><img src="../readme-images/readme_command_image.PNG" alt="QuickBooks Excel Add-in command button"></img>  
 
-3. 按一下 **連接至 QuickBooks** 以啟動 QuickBooks 登入視窗。<br><img src="readme-images/readme_image_taskpane.PNG" alt="Task pane sign in"></img>
+3. 按一下 **連接至 QuickBooks** 以啟動 QuickBooks 登入視窗。<br><img src="../readme-images/readme_image_taskpane.PNG" alt="Task pane sign in"></img>
 
-4. 如果 Visual Studio 中有錯誤視窗開啟，請按一下 **繼續** 並且瀏覽回 Excel。這個錯誤與範例無關。<br><img src="readme-images/readme_image_error.PNG" alt="Visual Studio error window"></img>
+4. 如果 Visual Studio 中有錯誤視窗開啟，請按一下 **繼續** 並且瀏覽回 Excel。這個錯誤與範例無關。<br><img src="../readme-images/readme_image_error.PNG" alt="Visual Studio error window"></img>
 
-5. 使用您的 QuickBooks 開發人員帳戶登入 QuickBooks。<br><img src="readme-images/readme_image_signin.PNG" alt="QuickBooks sign in dialog window"></img>
+5. 使用您的 QuickBooks 開發人員帳戶登入 QuickBooks。<br><img src="../readme-images/readme_image_signin.PNG" alt="QuickBooks sign in dialog window"></img>
 
-6. 按一下 **授權** 以允許 QuickBooks 將資料傳送至增益集。<br><img src="readme-images/readme_image_authorize.PNG" alt="QuickBooks authorize dialog window"></img> <br> 工作窗格會顯示兩個動作以供選擇。<br><img src="readme-images/readme_image_action.PNG" alt="Select action task pane"></img>
+6. 按一下 **授權** 以允許 QuickBooks 將資料傳送至增益集。<br><img src="../readme-images/readme_image_authorize.PNG" alt="QuickBooks authorize dialog window"></img> <br> 工作窗格會顯示兩個動作以供選擇。<br><img src="../readme-images/readme_image_action.PNG" alt="Select action task pane"></img>
 
-8. 選擇 **取得費用** 以從 QuickBooks 將費用匯入至試算表。<br><img src="readme-images/readme_image_expenses.PNG" alt="Expenses spreadsheet"></img>
+8. 選擇 **取得費用** 以從 QuickBooks 將費用匯入至試算表。<br><img src="../readme-images/readme_image_expenses.PNG" alt="Expenses spreadsheet"></img>
 
-9. 選擇 **建立圖表** 以插入圖表。<br><img src="readme-images/readme_image_chart.PNG" alt="Insert chart"></img>
+9. 選擇 **建立圖表** 以插入圖表。<br><img src="../readme-images/readme_image_chart.PNG" alt="Insert chart"></img>
 
 ## 瞭解程式碼
 

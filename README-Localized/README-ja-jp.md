@@ -47,19 +47,19 @@ Developer.intuit.com でアプリを構成することから始めます。
 
 1. F5 キーを押してプロジェクトを実行します。
 
-2. Excel のリボンでコマンド ボタンを選択して、アドインを起動します。<br><img src="readme-images/readme_command_image.PNG" alt="QuickBooks Excel アドイン コマンド ボタン"></img>  
+2. Excel のリボンでコマンド ボタンを選択して、アドインを起動します。<br><img src="../readme-images/readme_command_image.PNG" alt="QuickBooks Excel アドイン コマンド ボタン"></img>  
 
-3. **[QuickBooks に接続する]** をクリックして QuickBooks サインイン ウィンドウを起動します。<br><img src="readme-images/readme_image_taskpane.PNG" alt="作業ウィンドウのサインイン"></img>
+3. **[QuickBooks に接続する]** をクリックして QuickBooks サインイン ウィンドウを起動します。<br><img src="../readme-images/readme_image_taskpane.PNG" alt="作業ウィンドウのサインイン"></img>
 
-4. Visual Studio でエラー ウィンドウが開いた場合は、**[続行]** をクリックして、Excel に戻ります。このエラーは、サンプルとは関係がありません。<br><img src="readme-images/readme_image_error.PNG" alt="Visual Studio エラー ウィンドウ"></img>
+4. Visual Studio でエラー ウィンドウが開いた場合は、**[続行]** をクリックして、Excel に戻ります。このエラーは、サンプルとは関係がありません。<br><img src="../readme-images/readme_image_error.PNG" alt="Visual Studio エラー ウィンドウ"></img>
 
-5. QuickBooks に QuickBooks 開発者アカウントでサインインします。<br><img src="readme-images/readme_image_signin.PNG" alt="QuickBooks サインイン ダイアログ ウィンドウ"></img>
+5. QuickBooks に QuickBooks 開発者アカウントでサインインします。<br><img src="../readme-images/readme_image_signin.PNG" alt="QuickBooks サインイン ダイアログ ウィンドウ"></img>
 
-6. **[承認する]** をクリックして、QuickBooks がデータをアドインに送信することを許可します。<br><img src="readme-images/readme_image_authorize.PNG" alt="QuickBooks 承認ダイアログ ウィンドウ"></img> <br>作業ウィンドウに選択可能な 2 つの操作が表示されます。<br><img src="readme-images/readme_image_action.PNG" alt="操作を選択する作業ウィンドウ"></img>
+6. **[承認する]** をクリックして、QuickBooks がデータをアドインに送信することを許可します。<br><img src="../readme-images/readme_image_authorize.PNG" alt="QuickBooks 承認ダイアログ ウィンドウ"></img> <br>作業ウィンドウに選択可能な 2 つの操作が表示されます。<br><img src="../readme-images/readme_image_action.PNG" alt="操作を選択する作業ウィンドウ"></img>
 
-8. **[支出の取得]** を選択して、QuickBooks からスプレッドシートに支出データをインポートします。<br><img src="readme-images/readme_image_expenses.PNG" alt="支出のスプレッドシート"></img>
+8. **[支出の取得]** を選択して、QuickBooks からスプレッドシートに支出データをインポートします。<br><img src="../readme-images/readme_image_expenses.PNG" alt="支出のスプレッドシート"></img>
 
-9. **[グラフの作成]** を選択してグラフを挿入します。<br><img src="readme-images/readme_image_chart.PNG" alt="グラフの挿入"></img>
+9. **[グラフの作成]** を選択してグラフを挿入します。<br><img src="../readme-images/readme_image_chart.PNG" alt="グラフの挿入"></img>
 
 ## コードを理解する
 

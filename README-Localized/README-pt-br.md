@@ -47,19 +47,19 @@ Configure seu aplicativo na página developer.intuit.com para começar.
 
 1. Pressione F5 para executar o projeto.
 
-2. Inicie o suplemento selecionando o botão de comando da faixa de opções do Excel.<br><img src="readme-images/readme_command_image.PNG" alt="Botão de comando do Suplemento do Excel do QuickBooks"></img>  
+2. Inicie o suplemento selecionando o botão de comando da faixa de opções do Excel.<br><img src="../readme-images/readme_command_image.PNG" alt="Botão de comando do Suplemento do Excel do QuickBooks"></img>  
 
-3. Clique em **Conectar-se ao QuickBooks** para iniciar a janela de início de sessão do QuickBooks.<br><img src="readme-images/readme_image_taskpane.PNG" alt="Entrada no painel de tarefas"></img>
+3. Clique em **Conectar-se ao QuickBooks** para iniciar a janela de início de sessão do QuickBooks.<br><img src="../readme-images/readme_image_taskpane.PNG" alt="Entrada no painel de tarefas"></img>
 
-4. Se uma janela de erro for exibida no Visual Studio, clique em **Continuar** e navegue para o Excel. Esse erro está relacionado aos exemplos.<br><img src="readme-images/readme_image_error.PNG" alt="Janela de erro do Visual Studio"></img>
+4. Se uma janela de erro for exibida no Visual Studio, clique em **Continuar** e navegue para o Excel. Esse erro está relacionado aos exemplos.<br><img src="../readme-images/readme_image_error.PNG" alt="Janela de erro do Visual Studio"></img>
 
-5. Entrar no QuickBooks com sua conta de desenvolvedor do QuickBooks.<br><img src="readme-images/readme_image_signin.PNG" alt="Janela de diálogo de entrada do QuickBooks"></img>
+5. Entrar no QuickBooks com sua conta de desenvolvedor do QuickBooks.<br><img src="../readme-images/readme_image_signin.PNG" alt="Janela de diálogo de entrada do QuickBooks"></img>
 
-6. Clique em **Autorizar** para permitir que o QuickBooks envie dados para o suplemento<br><img src="readme-images/readme_image_authorize.PNG" alt="Janela de diálogo de autorização do QuickBooks"></img> <br> O painel de tarefas exibirá duas ações à sua escolha. <br><img src="readme-images/readme_image_action.PNG" alt="Painel de tarefas para escolher ações"></img>
+6. Clique em **Autorizar** para permitir que o QuickBooks envie dados para o suplemento<br><img src="../readme-images/readme_image_authorize.PNG" alt="Janela de diálogo de autorização do QuickBooks"></img> <br> O painel de tarefas exibirá duas ações à sua escolha. <br><img src="../readme-images/readme_image_action.PNG" alt="Painel de tarefas para escolher ações"></img>
 
-8. Escolha **Obter despesas** para importar as despesas do QuickBooks para uma planilha. <br><img src="readme-images/readme_image_expenses.PNG" alt="Planilha de despesas"></img>
+8. Escolha **Obter despesas** para importar as despesas do QuickBooks para uma planilha. <br><img src="../readme-images/readme_image_expenses.PNG" alt="Planilha de despesas"></img>
 
-9. Escolha **Criar Gráfico** para inserir um gráfico. <br><img src="readme-images/readme_image_chart.PNG" alt="Inserir gráfico"></img>
+9. Escolha **Criar Gráfico** para inserir um gráfico. <br><img src="../readme-images/readme_image_chart.PNG" alt="Inserir gráfico"></img>
 
 ## Compreender o código
 

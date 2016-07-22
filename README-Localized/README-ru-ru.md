@@ -47,19 +47,19 @@
 
 1. Нажмите клавишу F5, чтобы запустить проект.
 
-2. Запустите надстройку, нажав кнопку на ленте Excel.<br><img src="readme-images/readme_command_image.PNG" alt="Кнопка QuickBooks в Excel"></img>  
+2. Запустите надстройку, нажав кнопку на ленте Excel.<br><img src="../readme-images/readme_command_image.PNG" alt="Кнопка QuickBooks в Excel"></img>  
 
-3. Нажмите кнопку **Connect to QuickBooks** (Подключиться к QuickBooks), чтобы открыть окно входа в QuickBooks.<br><img src="readme-images/readme_image_taskpane.PNG" alt="Вход в область задач"></img>
+3. Нажмите кнопку **Connect to QuickBooks** (Подключиться к QuickBooks), чтобы открыть окно входа в QuickBooks.<br><img src="../readme-images/readme_image_taskpane.PNG" alt="Вход в область задач"></img>
 
-4. Если в Visual Studio появится окно ошибки, нажмите кнопку **Продолжить** и вернитесь к Excel. Эта ошибка не связана с примером.<br><img src="readme-images/readme_image_error.PNG" alt="Окно ошибки Visual Studio"></img>
+4. Если в Visual Studio появится окно ошибки, нажмите кнопку **Продолжить** и вернитесь к Excel. Эта ошибка не связана с примером.<br><img src="../readme-images/readme_image_error.PNG" alt="Окно ошибки Visual Studio"></img>
 
-5. Войдите в QuickBooks с помощью учетной записи разработчика решений для QuickBooks.<br><img src="readme-images/readme_image_signin.PNG" alt="Диалоговое окно входа в QuickBooks"></img>
+5. Войдите в QuickBooks с помощью учетной записи разработчика решений для QuickBooks.<br><img src="../readme-images/readme_image_signin.PNG" alt="Диалоговое окно входа в QuickBooks"></img>
 
-6. Нажмите кнопку **Authorize** (Авторизовать), чтобы разрешить QuickBooks отправлять данные в надстройку.<br><img src="readme-images/readme_image_authorize.PNG" alt="Диалоговое окно авторизации QuickBooks"></img><br>В области задач отобразятся два действия.<br><img src="readme-images/readme_image_action.PNG" alt="Область задач, где можно выбрать действие"></img>
+6. Нажмите кнопку **Authorize** (Авторизовать), чтобы разрешить QuickBooks отправлять данные в надстройку.<br><img src="../readme-images/readme_image_authorize.PNG" alt="Диалоговое окно авторизации QuickBooks"></img><br>В области задач отобразятся два действия.<br><img src="../readme-images/readme_image_action.PNG" alt="Область задач, где можно выбрать действие"></img>
 
-8. Выберите команду **Get Expenses** (Получить данные о расходах), чтобы импортировать эти данные из QuickBooks на лист.<br><img src="readme-images/readme_image_expenses.PNG" alt="Лист с данными о расходах"></img>
+8. Выберите команду **Get Expenses** (Получить данные о расходах), чтобы импортировать эти данные из QuickBooks на лист.<br><img src="../readme-images/readme_image_expenses.PNG" alt="Лист с данными о расходах"></img>
 
-9. Выберите команду **Create Chart** (Создать диаграмму), чтобы вставить диаграмму.<br><img src="readme-images/readme_image_chart.PNG" alt="Вставка диаграммы"></img>
+9. Выберите команду **Create Chart** (Создать диаграмму), чтобы вставить диаграмму.<br><img src="../readme-images/readme_image_chart.PNG" alt="Вставка диаграммы"></img>
 
 ## Разбор кода
 

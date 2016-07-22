@@ -47,19 +47,19 @@ Configure la aplicación en developer.intuit.com para comenzar.
 
 1. Pulse F5 para ejecutar el proyecto.
 
-2. Seleccione el botón de comando de la cinta de opciones en Excel para iniciar el complemento. <br><img src="readme-images/readme_command_image.PNG" alt="Botón de comando del complemento de Excel QuickBooks"></img>  
+2. Seleccione el botón de comando de la cinta de opciones en Excel para iniciar el complemento. <br><img src="../readme-images/readme_command_image.PNG" alt="Botón de comando del complemento de Excel QuickBooks"></img>  
 
-3. Haga clic en **Connect to QuickBooks** (Conectar con QuickBooks) para iniciar la ventana de inicio de sesión de QuickBooks.<br><img src="readme-images/readme_image_taskpane.PNG" alt="Inicio de sesión del panel de tareas"></img>
+3. Haga clic en **Connect to QuickBooks** (Conectar con QuickBooks) para iniciar la ventana de inicio de sesión de QuickBooks.<br><img src="../readme-images/readme_image_taskpane.PNG" alt="Inicio de sesión del panel de tareas"></img>
 
-4. Si se abre una ventana de error en Visual Studio, haga clic en **Continuar** y vuelva a Excel. Este error no está relacionado con el ejemplo.<br><img src="readme-images/readme_image_error.PNG" alt="Ventana de error de Visual Studio"></img>
+4. Si se abre una ventana de error en Visual Studio, haga clic en **Continuar** y vuelva a Excel. Este error no está relacionado con el ejemplo.<br><img src="../readme-images/readme_image_error.PNG" alt="Ventana de error de Visual Studio"></img>
 
-5. Inicie sesión con la cuenta de desarrollador de QuickBooks.<br><img src="readme-images/readme_image_signin.PNG" alt="Ventana de diálogo de inicio de sesión de QuickBooks"></img>
+5. Inicie sesión con la cuenta de desarrollador de QuickBooks.<br><img src="../readme-images/readme_image_signin.PNG" alt="Ventana de diálogo de inicio de sesión de QuickBooks"></img>
 
-6. Haga clic en **Autorizar** para permitir que QuickBooks envíe datos al complemento.<br><img src="readme-images/readme_image_authorize.PNG" alt="Ventana de diálogo de autorización de QuickBooks"></img> <br> El panel de tareas mostrará dos acciones entre las que debe elegir. <br><img src="readme-images/readme_image_action.PNG" alt="Panel de tareas Seleccionar acción"></img>
+6. Haga clic en **Autorizar** para permitir que QuickBooks envíe datos al complemento.<br><img src="../readme-images/readme_image_authorize.PNG" alt="Ventana de diálogo de autorización de QuickBooks"></img> <br> El panel de tareas mostrará dos acciones entre las que debe elegir. <br><img src="../readme-images/readme_image_action.PNG" alt="Panel de tareas Seleccionar acción"></img>
 
-8. Elija **Get Expenses** (Obtener gastos) para importar gastos de QuickBooks en una hoja de cálculo. <br><img src="readme-images/readme_image_expenses.PNG" alt="Hoja de cálculo de gastos"></img>
+8. Elija **Get Expenses** (Obtener gastos) para importar gastos de QuickBooks en una hoja de cálculo. <br><img src="../readme-images/readme_image_expenses.PNG" alt="Hoja de cálculo de gastos"></img>
 
-9. Elija **Crear gráfico** para insertar un gráfico. <br><img src="readme-images/readme_image_chart.PNG" alt="Insertar gráfico"></img>
+9. Elija **Crear gráfico** para insertar un gráfico. <br><img src="../readme-images/readme_image_chart.PNG" alt="Insertar gráfico"></img>
 
 ## Entender el código
 
