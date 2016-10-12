@@ -63,8 +63,8 @@
 
 ## 瞭解程式碼
 
-* [Home.html](QbAdd-inDotNetWeb/home.html) - 定義啟動時，以及使用者登入之後的工作窗格頁面。
-* [Home.js](QbAdd-inDotNetWeb/home.js) - 處理登入、登出、取得費用以及插入圖表的使用者互動。在這裡，會呼叫 `dialogDisplayAsync` API 以開啟對話方塊視窗，讓使用者登入 QuickBooks。
+* [Home.html](QbAdd-inDotNetWeb/Home.html) - 定義啟動時，以及使用者登入之後的工作窗格頁面。
+* [Home.js](QbAdd-inDotNetWeb/Home.js) - 處理登入、登出、取得費用以及插入圖表的使用者互動。在這裡，會呼叫 `dialogDisplayAsync` API 以開啟對話方塊視窗，讓使用者登入 QuickBooks。
 * [QbAdd-inDotNet.xml](QbAdd-inDotNet/QbAdd-inDotNetManifest/QbAdd-inDotNet.xml) - 增益集的資訊清單檔。 
 * [QuickBooksController.cs](QbAdd-inDotNetWeb/Controllers/QuickBooksController.cs) - 從 QuickBooks 取得費用資料。
 * [FunctionFile.js](QbAdd-inDotNetWeb/Functions/FunctionFile.js) - 將圖表新增至 Excel。

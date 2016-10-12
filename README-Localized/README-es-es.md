@@ -63,8 +63,8 @@ Configure la aplicación en developer.intuit.com para comenzar.
 
 ## Entender el código
 
-* [Home.html](QbAdd-inDotNetWeb/home.html): define la página del panel de tareas en el inicio y después de que el usuario haya iniciado sesión.
-* [Home.js](QbAdd-inDotNetWeb/home.js): identifica la interacción del usuario para iniciar sesión, cerrar sesión, obtener los gastos e insertar gráficos. En este caso, se llama a la API `dialogDisplayAsync` para abrir una ventana de diálogo para que el usuario inicie sesión en QuickBooks.
+* [Home.html](QbAdd-inDotNetWeb/Home.html): define la página del panel de tareas en el inicio y después de que el usuario haya iniciado sesión.
+* [Home.js](QbAdd-inDotNetWeb/Home.js): identifica la interacción del usuario para iniciar sesión, cerrar sesión, obtener los gastos e insertar gráficos. En este caso, se llama a la API `dialogDisplayAsync` para abrir una ventana de diálogo para que el usuario inicie sesión en QuickBooks.
 * [QbAdd-inDotNet.xml](QbAdd-inDotNet/QbAdd-inDotNetManifest/QbAdd-inDotNet.xml): el archivo de manifiesto del complemento. 
 * [QuickBooksController.cs](QbAdd-inDotNetWeb/Controllers/QuickBooksController.cs): obtiene datos de gastos de QuickBooks.
 * [FunctionFile.js](QbAdd-inDotNetWeb/Functions/FunctionFile.js): agrega un gráfico a Excel.

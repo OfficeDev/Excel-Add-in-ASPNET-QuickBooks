@@ -63,8 +63,8 @@ Pour commencer, configurez votre application à l’adresse developer.intuit.com
 
 ## Comprendre le code
 
-* [Home.HTML](QbAdd-inDotNetWeb/home.html) : définit la page de volet Office lors du démarrage et après la connexion de l’utilisateur.
-* [Home.js](QbAdd-inDotNetWeb/home.js) : gère les interactions de l’utilisateur pour la connexion, la déconnexion, l’obtention des dépenses et l’insertion de graphiques. Dans ce cas, l’API `dialogDisplayAsync` est appelée pour ouvrir une boîte de dialogue afin que l’utilisateur se connecte à QuickBooks.
+* [Home.HTML](QbAdd-inDotNetWeb/Home.html) : définit la page de volet Office lors du démarrage et après la connexion de l’utilisateur.
+* [Home.js](QbAdd-inDotNetWeb/Home.js) : gère les interactions de l’utilisateur pour la connexion, la déconnexion, l’obtention des dépenses et l’insertion de graphiques. Dans ce cas, l’API `dialogDisplayAsync` est appelée pour ouvrir une boîte de dialogue afin que l’utilisateur se connecte à QuickBooks.
 * [QbAdd-inDotNet.xml](QbAdd-inDotNet/QbAdd-inDotNetManifest/QbAdd-inDotNet.xml) : fichier manifeste pour le complément. 
 * [QuickBooksController.cs](QbAdd-inDotNetWeb/Controllers/QuickBooksController.cs) : récupère les données de dépenses auprès de QuickBooks.
 * [FunctionFile.js](QbAdd-inDotNetWeb/Functions/FunctionFile.js) : ajoute un graphique dans Excel.

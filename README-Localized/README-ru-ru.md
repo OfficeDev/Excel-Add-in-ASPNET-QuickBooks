@@ -64,9 +64,9 @@
 ## Разбор кода
 
 * 
-            Файл [Home.html](QbAdd-inDotNetWeb/home.html) определяет страницу области задач при запуске и после входа пользователя.
+            Файл [Home.html](QbAdd-inDotNetWeb/Home.html) определяет страницу области задач при запуске и после входа пользователя.
 * 
-            Файл [Home.js](QbAdd-inDotNetWeb/home.js) обрабатывает действия пользователя для входа, выхода, получения данных о расходах и вставки диаграммы. В этом файле вызывается API `dialogDisplayAsync`, чтобы открыть диалоговое окно входа в QuickBooks.
+            Файл [Home.js](QbAdd-inDotNetWeb/Home.js) обрабатывает действия пользователя для входа, выхода, получения данных о расходах и вставки диаграммы. В этом файле вызывается API `dialogDisplayAsync`, чтобы открыть диалоговое окно входа в QuickBooks.
 * 
             Файл [QbAdd-inDotNet.xml](QbAdd-inDotNet/QbAdd-inDotNetManifest/QbAdd-inDotNet.xml) — файл манифеста надстройки. 
 * 
