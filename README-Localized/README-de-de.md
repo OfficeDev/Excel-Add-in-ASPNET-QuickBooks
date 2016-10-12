@@ -63,8 +63,8 @@ Konfigurieren Sie zunächst Ihre App unter developer.intuit.com.
 
 ## Grundlegendes zum Code
 
-* [Home.HTML](QbAdd-inDotNetWeb/home.html) Definiert die Aufgabenbereichsseite, die beim Start und nach Anmeldung des Benutzers angezeigt wird.
-* [Home.js](QbAdd-inDotNetWeb/home.js) Verarbeitet die Benutzerinteraktion für Registrierung, Anmeldung, Abrufen von Ausgaben und Einfügen von Diagrammen. Hier wird die `dialogDisplayAsync`-API aufgerufen, um ein Dialogfeld für den Benutzer zur Anmeldung bei QuickBooks zu öffnen.
+* [Home.HTML](QbAdd-inDotNetWeb/Home.html) Definiert die Aufgabenbereichsseite, die beim Start und nach Anmeldung des Benutzers angezeigt wird.
+* [Home.js](QbAdd-inDotNetWeb/Home.js) Verarbeitet die Benutzerinteraktion für Registrierung, Anmeldung, Abrufen von Ausgaben und Einfügen von Diagrammen. Hier wird die `dialogDisplayAsync`-API aufgerufen, um ein Dialogfeld für den Benutzer zur Anmeldung bei QuickBooks zu öffnen.
 * [QbAdd-inDotNet.xml](QbAdd-inDotNet/QbAdd-inDotNetManifest/QbAdd-inDotNet.xml) Die Manifestdatei für das Add-In. 
 * [QuickBooksController.cs](QbAdd-inDotNetWeb/Controllers/QuickBooksController.cs) Ruft Ausgabedaten aus QuickBooks ab.
 * [FunctionFile.js](QbAdd-inDotNetWeb/Functions/FunctionFile.js) Fügt ein Diagramm in Excel hinzu.

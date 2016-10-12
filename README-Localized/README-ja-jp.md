@@ -63,8 +63,8 @@ Developer.intuit.com でアプリを構成することから始めます。
 
 ## コードを理解する
 
-* [Home.html](QbAdd-inDotNetWeb/home.html) - 起動時と、ユーザーがログインした後の作業ウィンドウ ページを定義します。
-* [Home.js](QbAdd-inDotNetWeb/home.js) - サインイン、サインアウト、支出の取得、グラフの挿入といったユーザーの操作を処理します。ここで、`dialogDisplayAsync` API が呼び出され、ユーザーが QuickBooks にサインインするためのダイアログ ウィンドウが開きます。
+* [Home.html](QbAdd-inDotNetWeb/Home.html) - 起動時と、ユーザーがログインした後の作業ウィンドウ ページを定義します。
+* [Home.js](QbAdd-inDotNetWeb/Home.js) - サインイン、サインアウト、支出の取得、グラフの挿入といったユーザーの操作を処理します。ここで、`dialogDisplayAsync` API が呼び出され、ユーザーが QuickBooks にサインインするためのダイアログ ウィンドウが開きます。
 * [QbAdd-inDotNet.xml](QbAdd-inDotNet/QbAdd-inDotNetManifest/QbAdd-inDotNet.xml) - アドインのマニフェスト ファイル。 
 * [QuickBooksController.cs](QbAdd-inDotNetWeb/Controllers/QuickBooksController.cs) - QuickBooks から支出データを取得します。
 * [FunctionFile.js](QbAdd-inDotNetWeb/Functions/FunctionFile.js) - Excel にグラフを追加します。
