@@ -1,0 +1,20 @@
+### YamlMime:Sample
+sample:
+- name: Excel Add-in with ASP.NET and QuickBooks
+  path: ''
+  description: This Excel Add-in demonstrates how to connect to QuickBooks, gets sample expense data from a sandbox account provided by QuickBooks, Sandbox Company_US_1, and imports the sample data into a spreadsheet. The add-in also provides a button to create a chart from the sample data.
+  readme: ''
+  generateZip: FALSE
+  isLive: TRUE
+  technologies:
+  - Office Add-in
+  azureDeploy: ''
+  author: rick-kirkham
+  platforms:
+  - .NET
+  languages:
+  - JavaScript
+  extensions:
+    products:
+    - Excel
+    scenarios: []
