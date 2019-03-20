@@ -1,3 +1,16 @@
+---
+topic: sample
+products:
+- Excel
+- Office 365
+languages:
+- JavaScript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 4/18/2016 1:13:36 PM
+---
 # Excel Add-in with ASP.NET and QuickBooks
 
 Your Excel Add-in can connect to a service like QuickBooks and import data into your Excel spreadsheet. 
