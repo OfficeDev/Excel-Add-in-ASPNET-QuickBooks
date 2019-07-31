@@ -1,17 +1,6 @@
----
-page_type: sample
-products:
-- office-excel
-- office-365
-languages:
-- javascript
-extensions:
-  contentType: samples
-  technologies:
-  - Add-ins
-  createdDate: 4/18/2016 1:13:36 PM
----
-# Excel Add-in with ASP.NET and QuickBooks
+# [ARCHIVED] Excel Add-in with ASP.NET and QuickBooks
+
+**Note:** This repo is archived and no longer actively maintained. Security vulnerabilities may exist in the project, or its dependencies. If you plan to reuse or run any code from this repo, be sure to perform appropriate security checks on the code or dependencies first. Do not use this project as the starting point of a production Office Add-in. Always start your production code by using the Office/SharePoint development workload in Visual Studio, or the [Yeoman generator for Office Add-ins](https://github.com/OfficeDev/generator-office), and follow security best practices as you develop the add-in.
 
 Your Excel Add-in can connect to a service like QuickBooks and import data into your Excel spreadsheet. 
 This Excel Add-in demonstrates how to connect to QuickBooks, gets sample expense data from a sandbox account provided by QuickBooks, **Sandbox Company_US_1**, and imports the sample data into a spreadsheet. The add-in also provides a button to create a chart from the sample data.
